@@ -1,0 +1,19 @@
+{
+  "name": "react-redux-rxjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danscotton/react-redux-rxjs.git"
+  },
+  "author": "Dan Scotton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danscotton/react-redux-rxjs/issues"
+  },
+  "homepage": "https://github.com/danscotton/react-redux-rxjs#readme"
+}
